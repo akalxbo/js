@@ -1,4 +1,13 @@
 # js
+//conversao de tipos
+const meuNumero = "1234";
+const meuNumeroConvertido = Number(meuNumero);
+
+console.log(typeof meuNumero);
+console.log(typeof meuNumeroConvertido);
+
+//MEDIA
+
 let nota1 = 5;
 let nota2 = 4;
 let nota3 = 8;
